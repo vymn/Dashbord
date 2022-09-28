@@ -9,17 +9,11 @@
 #TODO: DON'T FORGET TO LOCALIZE THE CODE
 
 #TODO: check every component to make sure there is nomore FUCKING to-dos
+
 #TODO: check every component to make sure there is nomore FUCKING to-dos
+
 #TODO: check every component to make sure there is nomore FUCKING to-dos
+
 #TODO: check every component to make sure there is nomore FUCKING to-dos
+
 #TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
-TODO: check every component to make sure there is nomore FUCKING to-dos
